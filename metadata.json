@@ -1,0 +1,6 @@
+{
+  "name": "Windows Shop Billing System",
+  "description": "Offline-first native Windows desktop POS & shop billing application for Indian retail stores with GST, barcode scanning, thermal printing, and SQLite persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
